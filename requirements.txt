@@ -9,7 +9,6 @@ colorama==0.4.4
 cycler==0.10.0
 cymem==2.0.5
 Cython==0.29.21
-dataclasses==0.8
 Flask==2.0.1
 gensim==4.0.1
 idna==2.10
